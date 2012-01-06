@@ -1,7 +1,6 @@
 package mturk
 
 import (
-	"fmt"
 	"crypto/hmac"
 	"encoding/base64"
 	"launchpad.net/goamz/aws"
